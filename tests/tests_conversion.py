@@ -1,5 +1,5 @@
 import unittest
-from scr.conversion import decimal_a_romano
+from src.conversion import decimal_a_romano
 
 class TestConversion(unittest.TestCase):
 
